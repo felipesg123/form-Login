@@ -1,17 +1,7 @@
-/* parte referente au campo nome  */
-
-#nom{
-  
-} 
-
-/* parte referente au campo senha  */
-
-#Pas{
-
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2018/01/26/06/01/pattern-3107886_1280.png);
+    padding:70px;
 }
-
-/* parte referente au campo entrar  */
-
-#obem{
-    
+h1{
+    font-family: arial;
 }
