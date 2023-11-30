@@ -22,8 +22,6 @@
 *  https://getbootstrap.com/
 
 
-## Fontes Consultadas
-* [fontes de letras.com](https://www.fontes-de-letras.com/) - site onde foi consultada as 3 fontes do projeto 
 
 
 
