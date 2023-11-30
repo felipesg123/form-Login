@@ -1,7 +1,5 @@
 body{
     background-image: url(https://cdn.pixabay.com/photo/2018/01/26/06/01/pattern-3107886_1280.png);
-    padding:70px;
-}
-h1{
-    font-family: arial;
+    padding:90px;
+    margin: 50px;
 }
