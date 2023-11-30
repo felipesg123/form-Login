@@ -7,19 +7,23 @@
 ## disiplina FTW 
 
  
-# descrição
+# descrição📖
+* neste  projeto foi criado um site de login que por decisão criativa foi colocado fonte e tela de fundo do personalisadas 
 
 
 
-# Referências 
+# Tecnologias utilizadas 🔍
+* html 5, css 3,botstrap 5,
 
-# Tecnologias utilizadas 
-* html 5, css 3,botstrap
- 
+# sites utilizados 
+
+*  https://pixabay.com/pt/
+
+*  https://getbootstrap.com/
+
 
 ## Fontes Consultadas
 * [fontes de letras.com](https://www.fontes-de-letras.com/) - site onde foi consultada as 3 fontes do projeto 
 
-![Logo do Markdown](img/fundosite)
-## resumo 
-### neste site men um tela de login com 3 campos 3 fontem utilisadas as quais peguei do site :https://www.fontes-de-letras.com/  e uma imagem de fundo a qual peguei do site: pixabay  
+
+
