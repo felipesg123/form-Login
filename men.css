@@ -1,5 +1,5 @@
 body{
-    background-image: url(https://cdn.pixabay.com/photo/2018/01/26/06/01/pattern-3107886_1280.png);
+    background: linear-gradient(to bottom right,  #010101, #5202ff,#6d2df6,#ebdbf8,#ccb6fa );
     padding:90px;
     margin: 50px;
 }
