@@ -10,7 +10,7 @@
 
 
 # destrição
-### este projeto tem 3 campos e tem a finalidade de testar uma tela de login
+### este projeto tem 3 campos e tem a finalidade de testar uma tela de login com um botao de recuperar  sua senha
 
 # introdução 
 ###  este projeto tem 3 campos com campo de nome,senha e um botão funsional que esta sem link de navegação 
